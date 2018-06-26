@@ -12,11 +12,11 @@ I enjoy [writing](/writing/) about things I learn, [speaking](https://lanyrd.com
 
 I love [writing code](https://github.com/jglovier?tab=repositories) because I love building things. <!---<a href="#things-i-love" class="more-link">[read more about things I love]</a>-->
 
-I love [Jesus](http://joelglovier.com/writing/brokenness-and-restoration/) because of his message of freedom and [restoration](/writing/brokenness-and-restoration/). I’m not a religious person, but I’m a devoted and unashamed Jesus-follower. <!---<a href="/good-news" class="more-link">[read more about why I love Jesus]</a>-->
+I love [Jesus](http://cnblog.club/writing/brokenness-and-restoration/) because of his message of freedom and [restoration](/writing/brokenness-and-restoration/). I’m not a religious person, but I’m a devoted and unashamed Jesus-follower. <!---<a href="/good-news" class="more-link">[read more about why I love Jesus]</a>-->
 
 I have a wonderful family and community where I live in central Pennsylvania (I work remotely for GitHub, as does approximately 50% of the company). I’m originally from the [Pittsburgh](http://en.wikipedia.org/wiki/Pittsburgh) area (shoutout [Greensburg](http://en.wikipedia.org/wiki/Greensburg,_Pennsylvania)), but currently reside in [Mechanicsburg](http://en.wikipedia.org/wiki/Mechanicsburg,_Pennsylvania), PA.
 
-In my "spare time" I enjoy getting away from the computer screen with other creative outlets like working on my [project car](https://github.com/jglovier/project-car), [skateboarding](/post-images/kgrind.jpg) and [snowboarding](/post-images/boyceparkrail.jpg), making [EDM and house mixes](https://soundcloud.com/joelglovier), [photography](http://www.flickr.com/photos/jglovier/), [bboying](/post-images/bboy-jag.jpg), designing tattoos tattoos, [cooking](http://joelglovier.com/writing/food/), the [Pittsburgh Steelers](http://www.steelers.com/), [graffiti art](http://www.youtube.com/watch?v=Pv-Do30-P8A), etc.
+In my "spare time" I enjoy getting away from the computer screen with other creative outlets like working on my [project car](https://github.com/jglovier/project-car), [skateboarding](/post-images/kgrind.jpg) and [snowboarding](/post-images/boyceparkrail.jpg), making [EDM and house mixes](https://soundcloud.com/joelglovier), [photography](http://www.flickr.com/photos/jglovier/), [bboying](/post-images/bboy-jag.jpg), designing tattoos tattoos, [cooking](http://cnblog.club/writing/food/), the [Pittsburgh Steelers](http://www.steelers.com/), [graffiti art](http://www.youtube.com/watch?v=Pv-Do30-P8A), etc.
 
 Now that you know so much about me, [you should say hi!](http://twitter.com/home?status=@jglovier%20Hi%20Joel!)
 
@@ -27,7 +27,7 @@ I use this website for several purposes including:
 - General info about me for people who are curious
 - A place to publish [things I discover](/writing/code/), my [personal](/writing/faith/) [thoughts](/writing/life/), and [silly](/writing/marketing/) [rants](/writing/business/).
 - A venue for practice [new things I’m learning](https://github.com/jglovier/jglovier.github.io/pull/25)
-- A venue for dogfooding [GitHub products](http://joelglovier.com/redesigning-and-rebuilding/) and practicing the [GitHub Flow](https://github.com/blog/1557-github-flow-in-the-browser)
+- A venue for dogfooding [GitHub products](http://cnblog.club/redesigning-and-rebuilding/) and practicing the [GitHub Flow](https://github.com/blog/1557-github-flow-in-the-browser)
 
 Here’s some of the technical details you may (or may not) be interested in:
 

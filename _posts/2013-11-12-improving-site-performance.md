@@ -6,11 +6,11 @@ imgclass: externaldrive
 categories: code performance
 ---
 
-The [last version](http://2011.joelglovier.com) of my personal site was something I was proud of from an aesthetic design perspective, but from a performance perspective it was an abomination. There were tons of images used and way too many server calls.
+The [last version](http://2011.cnblog.club) of my personal site was something I was proud of from an aesthetic design perspective, but from a performance perspective it was an abomination. There were tons of images used and way too many server calls.
 
-I justified it by telling myself that since it was a portfolio site users would expect to see all those images of my work and decorative elements and would not be concerned with the page weight. But in reality I was always embarrassed it was so heavy. The home page topped out at over 4mb to load, and an average load time of 26s (as tested by [pingdom](http://tools.pingdom.com/fpt/#!/bQBeP2/joelglovier.com)). That is completely and utterly rediculous by any standards whatsoever.
+I justified it by telling myself that since it was a portfolio site users would expect to see all those images of my work and decorative elements and would not be concerned with the page weight. But in reality I was always embarrassed it was so heavy. The home page topped out at over 4mb to load, and an average load time of 26s (as tested by [pingdom](http://tools.pingdom.com/fpt/#!/bQBeP2/cnblog.club)). That is completely and utterly rediculous by any standards whatsoever.
 
-[![pingdom tools results](/post-images/perf/pingdom-results.png){: .half .right}](http://tools.pingdom.com/fpt/#!/bQBeP2/joelglovier.com)
+[![pingdom tools results](/post-images/perf/pingdom-results.png){: .half .right}](http://tools.pingdom.com/fpt/#!/bQBeP2/cnblog.club)
 
 So with [my recent site redesign](/writing/2013/redesigning-and-rebuilding/) I've committed to keeping a light weight site. I've taken the home page down to 13 requests, 336ms load time, and 212kb. It's gone from being slower than 95% of sites tested with pingdom to faster than 99%.
 

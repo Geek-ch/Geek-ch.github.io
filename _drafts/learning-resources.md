@@ -11,7 +11,7 @@ I often meet people who are new into the design industry, or have been doing pri
 
 I can only answer from my own experience, and from some of the things I’ve learned over the years to be best practices in our industry. So that’s what I’m going to share with you.
 
-[I occasionally teach](http://joelglovier.com/hacc/) technology courses like Web Authoring, and others, at my local community college, and this is also some of the info I give my students who are just learning web design. You can also [check out an outline of resources](http://joelglovier.com/hacc/2011/spring/web-authoring/) from a recent Web Authoring course at HACC that I prepared for my students.
+[I occasionally teach](http://cnblog.club/hacc/) technology courses like Web Authoring, and others, at my local community college, and this is also some of the info I give my students who are just learning web design. You can also [check out an outline of resources](http://cnblog.club/hacc/2011/spring/web-authoring/) from a recent Web Authoring course at HACC that I prepared for my students.
 
 But for anyone building websites - or just designing them - it’s best to have a working knowledge of HTML and CSS as a fundamental foundation. These are two of the easiest computer languages you can learn, and they are not even programming or scripting languages. One is a markup language (meaning you markup content with semantic meaning) and the other is simply a way of writing rules for how to present your content.
 

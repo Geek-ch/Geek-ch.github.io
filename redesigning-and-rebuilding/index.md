@@ -1,4 +1,4 @@
 ---
 layout: redirect
-external_url: "http://joelglovier.com/writing/redesigning-and-rebuilding"
+external_url: "http://cnblog.club/writing/redesigning-and-rebuilding"
 ---

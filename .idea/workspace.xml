@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b9246c6-3aeb-41ae-9b36-b7abce6805e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.md" afterPath="$PROJECT_DIR$/404.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/learning-resources.md" afterPath="$PROJECT_DIR$/_drafts/learning-resources.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-09-redesigning-and-rebuilding.md" afterPath="$PROJECT_DIR$/_posts/2013-10-09-redesigning-and-rebuilding.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-11-12-improving-site-performance.md" afterPath="$PROJECT_DIR$/_posts/2013-11-12-improving-site-performance.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-20-rss-for-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2013-12-20-rss-for-jekyll.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/five-simple-goals-for-2014/index.md" afterPath="$PROJECT_DIR$/five-simple-goals-for-2014/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/dubfresh/index.md" afterPath="$PROJECT_DIR$/fonts/dubfresh/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/index.md" afterPath="$PROJECT_DIR$/fonts/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontendconf/index.md" afterPath="$PROJECT_DIR$/frontendconf/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/good-news/index.html" afterPath="$PROJECT_DIR$/good-news/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/2011/spring/web-authoring/index.html" afterPath="$PROJECT_DIR$/hacc/2011/spring/web-authoring/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/index.html" afterPath="$PROJECT_DIR$/hacc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/web-authoring/index.html" afterPath="$PROJECT_DIR$/hacc/web-authoring/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redesigning-and-rebuilding/index.md" afterPath="$PROJECT_DIR$/redesigning-and-rebuilding/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rss-for-jekyll/index.md" afterPath="$PROJECT_DIR$/rss-for-jekyll/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/siui/index.md" afterPath="$PROJECT_DIR$/siui/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/dubfresh/index.md" afterPath="$PROJECT_DIR$/wallpaper/dubfresh/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/freelancer/index.md" afterPath="$PROJECT_DIR$/wallpaper/freelancer/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hacker/index.md" afterPath="$PROJECT_DIR$/wallpaper/hacker/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hellenic-a-black/index.md" afterPath="$PROJECT_DIR$/wallpaper/hellenic-a-black/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hellenic-a/index.md" afterPath="$PROJECT_DIR$/wallpaper/hellenic-a/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/index.md" afterPath="$PROJECT_DIR$/wallpaper/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/popularity/index.md" afterPath="$PROJECT_DIR$/wallpaper/popularity/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/relationships/index.md" afterPath="$PROJECT_DIR$/wallpaper/relationships/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/writing/index.html" afterPath="$PROJECT_DIR$/writing/index.html" />
     </list>
     <ignored path="博客网站.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +53,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header/home.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/404.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,7 +86,7 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
@@ -68,7 +116,7 @@
       <file leaf-file-name="site-nav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/site-nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="238">
               <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
@@ -88,7 +136,7 @@
       <file leaf-file-name="blogpost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header/blogpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="323">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -108,6 +156,8 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/site-nav.html" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/404.md" />
       </list>
     </option>
   </component>
@@ -118,8 +168,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1441" />
-    <option name="y" value="28" />
+    <option name="x" value="1448" />
+    <option name="y" value="90" />
     <option name="width" value="1432" />
     <option name="height" value="797" />
   </component>
@@ -148,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,7 +252,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +286,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -270,21 +326,22 @@
       <option name="presentableId" value="Default" />
       <updated>1529926323747</updated>
       <workItem from="1529926325114" duration="47000" />
-      <workItem from="1529941702804" duration="2442000" />
+      <workItem from="1529941702804" duration="3062000" />
+      <workItem from="1530000369588" duration="553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2489000" />
+    <option name="totallyTimeSpent" value="3662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1441" y="28" width="1432" height="797" extended-state="0" />
+    <frame x="1448" y="90" width="1432" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -323,22 +380,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/joel-glovier-2015-02-17.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header/blogpost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="170">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
@@ -362,7 +406,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/site-nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header/blogpost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/joel-glovier-2015-02-17.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header/blogpost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/closing-tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/site-nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding />
         </state>
@@ -378,8 +491,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header/home.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>

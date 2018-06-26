@@ -1,4 +1,4 @@
 ---
 layout: redirect
-external_url: "http://2011.joelglovier.com/fonts/"
+external_url: "http://2011.cnblog.club/fonts/"
 ---

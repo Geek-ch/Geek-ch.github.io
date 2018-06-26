@@ -61,7 +61,7 @@ Yup, that's it! Just `jekyll build` your site and push, or if you are on [GitHub
 
 Don't forget to put a link to your feed somewhere where in your page layout so your readers will know about it and be able to find it.
 
-Also, it's a good idea to add a `<link>` element in the document `<head>` for browsers that have built in support for RSS feed-readers. You can use a line like this: `<link href='http://joelglovier.com/feed.xml' rel='alternate' type='application/atom+xml'>` (props to [@pengwynn](https://github.com/pengwynn) for [pointing this one out with a PR](https://github.com/jglovier/jglovier.github.io/pull/48)).
+Also, it's a good idea to add a `<link>` element in the document `<head>` for browsers that have built in support for RSS feed-readers. You can use a line like this: `<link href='http://cnblog.club/feed.xml' rel='alternate' type='application/atom+xml'>` (props to [@pengwynn](https://github.com/pengwynn) for [pointing this one out with a PR](https://github.com/jglovier/jglovier.github.io/pull/48)).
 
 Mad props to [@snaptortoise](https://github.com/snaptortoise) for creating these simple and easy to use RSS Jekyll templates!
 
