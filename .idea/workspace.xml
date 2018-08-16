@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b9246c6-3aeb-41ae-9b36-b7abce6805e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.md" afterPath="$PROJECT_DIR$/404.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/learning-resources.md" afterPath="$PROJECT_DIR$/_drafts/learning-resources.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-10-09-redesigning-and-rebuilding.md" afterPath="$PROJECT_DIR$/_posts/2013-10-09-redesigning-and-rebuilding.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-11-12-improving-site-performance.md" afterPath="$PROJECT_DIR$/_posts/2013-11-12-improving-site-performance.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-12-20-rss-for-jekyll.md" afterPath="$PROJECT_DIR$/_posts/2013-12-20-rss-for-jekyll.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/five-simple-goals-for-2014/index.md" afterPath="$PROJECT_DIR$/five-simple-goals-for-2014/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/dubfresh/index.md" afterPath="$PROJECT_DIR$/fonts/dubfresh/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/index.md" afterPath="$PROJECT_DIR$/fonts/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontendconf/index.md" afterPath="$PROJECT_DIR$/frontendconf/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/good-news/index.html" afterPath="$PROJECT_DIR$/good-news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/2011/spring/web-authoring/index.html" afterPath="$PROJECT_DIR$/hacc/2011/spring/web-authoring/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/index.html" afterPath="$PROJECT_DIR$/hacc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hacc/web-authoring/index.html" afterPath="$PROJECT_DIR$/hacc/web-authoring/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redesigning-and-rebuilding/index.md" afterPath="$PROJECT_DIR$/redesigning-and-rebuilding/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rss-for-jekyll/index.md" afterPath="$PROJECT_DIR$/rss-for-jekyll/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/siui/index.md" afterPath="$PROJECT_DIR$/siui/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/dubfresh/index.md" afterPath="$PROJECT_DIR$/wallpaper/dubfresh/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/freelancer/index.md" afterPath="$PROJECT_DIR$/wallpaper/freelancer/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hacker/index.md" afterPath="$PROJECT_DIR$/wallpaper/hacker/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hellenic-a-black/index.md" afterPath="$PROJECT_DIR$/wallpaper/hellenic-a-black/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/hellenic-a/index.md" afterPath="$PROJECT_DIR$/wallpaper/hellenic-a/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/index.md" afterPath="$PROJECT_DIR$/wallpaper/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/popularity/index.md" afterPath="$PROJECT_DIR$/wallpaper/popularity/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wallpaper/relationships/index.md" afterPath="$PROJECT_DIR$/wallpaper/relationships/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/writing/index.html" afterPath="$PROJECT_DIR$/writing/index.html" />
-    </list>
+    <list default="true" id="9b9246c6-3aeb-41ae-9b36-b7abce6805e5" name="Default" comment="" />
     <ignored path="博客网站.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -56,7 +26,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="170">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
@@ -327,12 +297,12 @@
       <updated>1529926323747</updated>
       <workItem from="1529926325114" duration="47000" />
       <workItem from="1529941702804" duration="3062000" />
-      <workItem from="1530000369588" duration="553000" />
+      <workItem from="1530000369588" duration="1135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3662000" />
+    <option name="totallyTimeSpent" value="4244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1448" y="90" width="1432" height="797" extended-state="0" />
@@ -491,7 +461,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="170">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
